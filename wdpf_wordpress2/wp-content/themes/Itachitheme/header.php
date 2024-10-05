@@ -39,6 +39,6 @@
 				<option value="single.html">About</option>
 				<option value="contact.html">Contact</option>
 			</select>
-		</div>		
-	</div> -->
+		</div>		 -->
+	</div>
 </nav>
